@@ -3,6 +3,6 @@ The dataset can be downloaded from the drive : https://drive.google.com/drive/fo
 
 Used cotton plant and leaf images with four categories "Fresh Cotton Plant", "Disease cotton plant", "Fresh cotton Leaf", " Disease cotton Leaf".
 
-Implemented Transfer learning tecnique by using InceptionV3 Deep Learning CNN architecture.
+Implemented Transfer learning technique by using InceptionV3 Deep Learning CNN architecture.
 
 Model performed outstanding and resulted with 96.41% accuracy. 
